@@ -1,0 +1,34 @@
+body {
+  background-color: rgb(233, 233, 233);
+}
+
+.active {
+  background-color: black;
+}
+
+.brand {
+  margin-left: 5px;
+  color: rgb(161, 161, 161);
+}
+
+i {
+  color: black;
+}
+
+a {
+  text-decoration: none;
+}
+.card-title {
+  background: rgba(117, 205, 237, 0.358);
+}
+
+.link {
+  color: #0a58ca;
+}
+.button {
+  background-color: #0a58ca;
+}
+
+.admin {
+  border: 2px solid #84c0f28c;
+}
